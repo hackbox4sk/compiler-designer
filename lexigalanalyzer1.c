@@ -1,3 +1,4 @@
+//lexial analyzer to reconize a few pattern
 #include <stdbool.h>
 #include <stdio.h>
 #include <string.h>
